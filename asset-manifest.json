@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/date-time-year-2024/static/css/main.e881eac3.css",
+    "main.js": "/date-time-year-2024/static/js/main.6fd54237.js",
+    "static/js/787.390704f4.chunk.js": "/date-time-year-2024/static/js/787.390704f4.chunk.js",
+    "index.html": "/date-time-year-2024/index.html",
+    "main.e881eac3.css.map": "/date-time-year-2024/static/css/main.e881eac3.css.map",
+    "main.6fd54237.js.map": "/date-time-year-2024/static/js/main.6fd54237.js.map",
+    "787.390704f4.chunk.js.map": "/date-time-year-2024/static/js/787.390704f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e881eac3.css",
+    "static/js/main.6fd54237.js"
+  ]
+}
